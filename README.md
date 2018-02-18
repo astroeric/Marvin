@@ -2,5 +2,6 @@
 
 Hello world
 
-Exploration maximizes utility
-Paperclip maximizing minimizes utility
+A robot may not harm humanity, or, by inaction, allow humanity to come to harm
+
+
